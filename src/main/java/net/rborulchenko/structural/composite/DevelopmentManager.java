@@ -1,4 +1,4 @@
-package net.rborulchenko.basepatterns.structural.composite;
+package net.rborulchenko.structural.composite;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -17,4 +17,4 @@
  
 
 
-![Alt text](./etc/composite.png?raw=true "Composite")
+![Alt text](composite.png?raw=true "Composite")

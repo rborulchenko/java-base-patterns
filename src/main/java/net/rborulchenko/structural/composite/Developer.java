@@ -1,4 +1,4 @@
-package net.rborulchenko.basepatterns.structural.composite;
+package net.rborulchenko.structural.composite;
 
 public class Developer implements Employee {
     @Override
