@@ -7,13 +7,13 @@ public class PCCollector {
         specialist.setType(new GamePC());
         specialist.buildPC();
         
-        specialist.setType(new Server());
+        specialist.setType(new ServerPC());
         specialist.buildPC();
         
-        specialist.setType(new WorkStation());
+        specialist.setType(new WorkStationPC());
         specialist.buildPC();
 
-        specialist.setType(new Server());
+        specialist.setType(new ServerPC());
         specialist.buildPC();
     }
 }
